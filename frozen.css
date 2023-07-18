@@ -1,0 +1,54 @@
+
+
+
+.landing .image {
+    width: 100%;
+}
+
+.landing .image img {
+    width: 100%;
+}
+
+.landing > p {
+    margin: 25px auto;
+}
+
+
+.item .name span {
+    display: inline-block;
+    padding: 10px 10px;
+    letter-spacing: 1px;
+}
+
+
+.category.ready_to_cook .item .info {
+    background-image: url('imgs/chicken_cook.jpg');
+}
+
+.category.meat .item .info {
+    background-image: url('imgs/meat_section.jpg');
+}
+
+.category.pasta .item .info {
+    background-image: url('imgs/pasta_item.jpg');
+}
+
+.category.gratin .item .info {
+    background-image: url('imgs/gratin_item.jpg');
+}
+
+.category.dessert .item .info {
+    background-image: url('imgs/pumpkin_pleasure.jpg');
+}
+
+.category.ready_to_heat .item .info {
+    background-image: url('imgs/ready_to_heat_item.jpg');
+}
+
+.category.ready_to_heat_meatballs .item .info {
+    background-image: url('imgs/meatballs_heat.jpg');
+}
+
+.category.signature_sauces .item .info {
+    background-image: url('imgs/signature_sauces_item.jpg');
+}
